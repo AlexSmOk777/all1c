@@ -9,10 +9,11 @@
 		<Metadata name="CommonModule.бит_ИнтеграцияDadata.Module" id="3a69bfce-8f81-4a50-833e-e8bebbd04582.0" configVersion="89e47e35ffe527041843c83fb5e576e28aa23497"/>
 		<Metadata name="CommonModule.бит_ИнтеграцияDadataКлиент" id="d2038a8a-115b-45bb-9cd8-b6ba2860419c" configVersion="aca06fbd3c0e05a4a7aed637fe71399b2bc6c40c"/>
 		<Metadata name="CommonModule.бит_ИнтеграцияDadataКлиент.Module" id="d2038a8a-115b-45bb-9cd8-b6ba2860419c.0" configVersion="d1300f90cdfa6304c6d6bb5949302aa57f84db82"/>
-		<Metadata name="Configuration.бит_ПодсказкаАдреса" id="7064cee2-e245-4595-afc5-66ff59b49f84" configVersion="0f94bec0a4713544bd13a9b889a20c8d0a4f7da0"/>
+		<Metadata name="Configuration.бит_ПодсказкаАдреса" id="7064cee2-e245-4595-afc5-66ff59b49f84" configVersion="1ea5637aa3677ba7c42d5eff5f27be6a2d272f70"/>
 		<Metadata name="DataProcessor.РасширенныйВводКонтактнойИнформации" id="c47cb2b5-130a-494d-a8bb-a8f4c70a13e8" configVersion="4846bcda90e2ebeab5f01939fdd3f38eae1bca4d"/>
 		<Metadata name="DataProcessor.РасширенныйВводКонтактнойИнформации.Form.ВводАдреса" id="c23fc403-1d5c-4d16-9d68-7ec7e038cf56" configVersion="ac534586f82cce9047ef748cc134979ed1d83164"/>
 		<Metadata name="DataProcessor.РасширенныйВводКонтактнойИнформации.Form.ВводАдреса.Form" id="c23fc403-1d5c-4d16-9d68-7ec7e038cf56.0" configVersion="62115bbf6c7a072923e264b62a93833ac7205df3"/>
+		<Metadata name="Document.бит_Документ1" id="53a09d2d-9b3c-46bd-b24b-488370ed8844" configVersion="8ec81f58bb4678f2ad07da558cd45d1c9d8a017b"/>
 		<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata" id="8e3a718a-a538-4f22-9357-447f3248edf1" configVersion="30d67f556c9f93c03c63abe791295623b5576c5e">
 			<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata.Resource.АдресDadata" id="79cc9fed-f660-4da4-b4c4-911646507c93"/>
 			<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata.Resource.КлючАПИ" id="ef9f4668-b815-471b-83f0-d28f9b0cde8a"/>

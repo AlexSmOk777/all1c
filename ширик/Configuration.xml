@@ -73,6 +73,7 @@
 			<CommonModule>бит_ИнтеграцияDadataКлиент</CommonModule>
 			<CommonCommand>бит_ОткрытьНастройкиИнтеграцииDadata</CommonCommand>
 			<CommonForm>бит_ФормаПодсказкиАдреса</CommonForm>
+			<Document>бит_Документ1</Document>
 			<DataProcessor>РасширенныйВводКонтактнойИнформации</DataProcessor>
 			<InformationRegister>бит_НастройкиИнтеграцииDadata</InformationRegister>
 		</ChildObjects>
