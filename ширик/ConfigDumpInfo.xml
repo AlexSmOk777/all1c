@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="CommonCommand.бит_ОткрытьНастройкиИнтеграцииDadata" id="f54b63ce-5c34-4a85-9ca9-d702aa1e5232" configVersion="e452f3596beb90ca64711797c25bbc2881ee5601"/>
+		<Metadata name="CommonCommand.бит_ОткрытьНастройкиИнтеграцииDadata.CommandModule" id="f54b63ce-5c34-4a85-9ca9-d702aa1e5232.2" configVersion="ebd8003167294f67cc1b517b47de8e1d1ce4b38a"/>
+		<Metadata name="CommonForm.бит_ФормаПодсказкиАдреса" id="6403114a-5e9b-4498-b175-d1073246ce4d" configVersion="ec912f421c6f26e70d87c7358d6f6666feda9db8"/>
+		<Metadata name="CommonForm.бит_ФормаПодсказкиАдреса.Form" id="6403114a-5e9b-4498-b175-d1073246ce4d.0" configVersion="23a02a4d495d4bfedca73b1af06aaa2711d67785"/>
+		<Metadata name="CommonModule.бит_ИнтеграцияDadata" id="3a69bfce-8f81-4a50-833e-e8bebbd04582" configVersion="b184e8d976597bf9237da70685ed930854f88846"/>
+		<Metadata name="CommonModule.бит_ИнтеграцияDadata.Module" id="3a69bfce-8f81-4a50-833e-e8bebbd04582.0" configVersion="89e47e35ffe527041843c83fb5e576e28aa23497"/>
+		<Metadata name="CommonModule.бит_ИнтеграцияDadataКлиент" id="d2038a8a-115b-45bb-9cd8-b6ba2860419c" configVersion="aca06fbd3c0e05a4a7aed637fe71399b2bc6c40c"/>
+		<Metadata name="CommonModule.бит_ИнтеграцияDadataКлиент.Module" id="d2038a8a-115b-45bb-9cd8-b6ba2860419c.0" configVersion="d1300f90cdfa6304c6d6bb5949302aa57f84db82"/>
+		<Metadata name="Configuration.бит_ПодсказкаАдреса" id="7064cee2-e245-4595-afc5-66ff59b49f84" configVersion="0f94bec0a4713544bd13a9b889a20c8d0a4f7da0"/>
+		<Metadata name="DataProcessor.РасширенныйВводКонтактнойИнформации" id="c47cb2b5-130a-494d-a8bb-a8f4c70a13e8" configVersion="4846bcda90e2ebeab5f01939fdd3f38eae1bca4d"/>
+		<Metadata name="DataProcessor.РасширенныйВводКонтактнойИнформации.Form.ВводАдреса" id="c23fc403-1d5c-4d16-9d68-7ec7e038cf56" configVersion="ac534586f82cce9047ef748cc134979ed1d83164"/>
+		<Metadata name="DataProcessor.РасширенныйВводКонтактнойИнформации.Form.ВводАдреса.Form" id="c23fc403-1d5c-4d16-9d68-7ec7e038cf56.0" configVersion="62115bbf6c7a072923e264b62a93833ac7205df3"/>
+		<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata" id="8e3a718a-a538-4f22-9357-447f3248edf1" configVersion="30d67f556c9f93c03c63abe791295623b5576c5e">
+			<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata.Resource.АдресDadata" id="79cc9fed-f660-4da4-b4c4-911646507c93"/>
+			<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata.Resource.КлючАПИ" id="ef9f4668-b815-471b-83f0-d28f9b0cde8a"/>
+		</Metadata>
+		<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata.Form.ФормаЗаписи" id="761f7de0-36af-49e5-85d8-ed858ab13488" configVersion="ccdb5d7077432b9b9a6ef8cb5fc611179d6d2240"/>
+		<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata.Form.ФормаЗаписи.Form" id="761f7de0-36af-49e5-85d8-ed858ab13488.0" configVersion="53bc12e2ae0061f2628689d01fc6d36c4ab455fd"/>
+		<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata.Form.ФормаСписка" id="79fa922c-4001-4d00-9e27-05e62bd999ae" configVersion="c2745bbed5e44b5446b902157368556fa3a38ce0"/>
+		<Metadata name="InformationRegister.бит_НастройкиИнтеграцииDadata.Form.ФормаСписка.Form" id="79fa922c-4001-4d00-9e27-05e62bd999ae.0" configVersion="0c36faee26c52233cf0c724884a50d664dbd72fe"/>
+		<Metadata name="Language.Русский" id="6c12c593-f35f-494e-82fc-eeedbbfc6cdb" configVersion="04ddcf28b253cef41cbce1d933fd0dd2bb2adad1"/>
+		<Metadata name="Role.бит_ОсновнаяРольDadata" id="6f3b07f3-6644-4f04-9689-01c5c012d74f" configVersion="43ffe154a69b8a3740a167ced9c672f7862894dd"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="d9c10653-62a5-4d77-890e-c081b7a7e64d" configVersion="a62c25c151624c6a7df933bb4cb95f689640e033"/>
+		<Metadata name="StyleItem.ЦветФонаПредупреждения" id="7e75c558-020a-4fe1-9560-2d7538d555c6" configVersion="12d235de30fe0ed84c22efc0a94a1c38872f2555"/>
+		<Metadata name="Subsystem.Администрирование" id="c3ce73c8-2abe-4dce-a4f7-4ed92225d281" configVersion="2295d50d722b6ced46e955a19543984d828beebe"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
